@@ -1,0 +1,1 @@
+Cada rama simboliza un poema o reflexion, la idea es navegar a traves de los comits y sub ramas para ir viendo las distintas versiones.
